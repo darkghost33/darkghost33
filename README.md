@@ -1,8 +1,7 @@
-[![MasterHead](https://64.media.tumblr.com/db33ab5cd68d0002e400b11c496f6526/tumblr_nragc2PDdj1s8njeuo1_r2_500.gifv)]
-
+<p style="text-align:center;"><img src="https://64.media.tumblr.com/db33ab5cd68d0002e400b11c496f6526/tumblr_nragc2PDdj1s8njeuo1_r2_500.gifv" alt="Logo"></p>
 <h1 align="center">Hi 👋, I'm Devesh Mukherjee</h1>
 <h3 align="center">A newbie android and frontend developer.</h3>
-img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif?cid=ecf05e47hy2urt29i2f1dy1sbvpann1o0ivl0rkozhwjtlut&rid=giphy.gif&ct=g"
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif?cid=ecf05e47hy2urt29i2f1dy1sbvpann1o0ivl0rkozhwjtlut&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkghost33&label=Profile%20views&color=0e75b6&style=flat" alt="darkghost33" /> </p>
 
