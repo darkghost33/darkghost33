@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **bootstrap,react etc.**
 
+- 🎓 I am currently pursuing **B.Tech from United College of Engineering and Research, Prayagraj(CS Branch)(2023 Batch)**.
+
 - 👨‍💻 All of my projects are available at [https://github.com/darkghost33?tab=repositories](https://github.com/darkghost33?tab=repositories)
 
 - 📫 How to reach me **deveshmukherjee76@gmail.com**
