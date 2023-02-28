@@ -40,6 +40,6 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkghost33&theme=tokyonight" alt="darkghost33" /></p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=darkghost33&&theme=xcode)](https://github.com/darkghost33)
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=darkghost33&&theme=xcode)](https://github.com/darkghost33) -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkghost33&theme=tokyonight" alt="darkghost33" /></a> </p>
