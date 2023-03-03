@@ -1,6 +1,6 @@
 [![MasterHead](https://c.tenor.com/tfLmdRlNxksAAAAC/minions-guitar.gif)](https://darkghost33.io)
 <h1 align="center">Hi 👋, I'm Devesh Mukherjee</h1>
-<h3 align="center">A newbie android and frontend developer.</h3>
+<h3 align="center">An Android and MERN Stack Web Developer.</h3>
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
 
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **bootstrap,react etc.**
+- 🌱 I’m currently learning **tailwind css,javascript,react etc.**
 
 - 🎓 I am currently pursuing **B.Tech from United College of Engineering and Research, Prayagraj(CS Branch)(2023 Batch)**.
 
