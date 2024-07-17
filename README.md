@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **tailwind css,javascript,react etc.**
 
-- 🎓 I am currently pursuing **B.Tech from United College of Engineering and Research, Prayagraj(CS Branch)(2023 Batch)**.
+- 🎓 I am currently pursuing **Master of Information Technology from Auckland Institute of Studies, Auckland**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkghost33?tab=repositories](https://github.com/darkghost33?tab=repositories)
 
