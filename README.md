@@ -1,6 +1,6 @@
 [![MasterHead](https://c.tenor.com/tfLmdRlNxksAAAAC/minions-guitar.gif)](https://darkghost33.io)
 <h1 align="center">Hi 👋, I'm Devesh Mukherjee</h1>
-<h3 align="center">An Android and MERN Stack Web Developer.</h3>
+<h3 align="center">An MERN Stack Web Developer and ML enthusiast.</h3>
 <img align="right" alt="Coding" width="250" src="https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
 
 
